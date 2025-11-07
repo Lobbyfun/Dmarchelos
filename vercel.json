@@ -7,11 +7,12 @@
   "routes": [
     {
       "src": "/",
-      "dest": "/dmarchelos/index.php"
+      "dest": "/dmarchalos/index.php"
     },
     {
       "src": "/(.*)",
-      "dest": "/dmarchelos/$1"
+      "dest": "/dmarchalos/$1"
     }
   ]
 }
+
